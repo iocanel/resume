@@ -1,0 +1,222 @@
+{
+    "basics": {
+        "name": "Ioannis Canellos",
+        "label": "Software Engineer",
+        "picture": "https://s3.eu-central-1.amazonaws.com/iocanel/profile/profile.jpg",
+        "email": "iocanel@gmail.com",
+        "phone": "",
+        "website": "http://iocanel.com",
+        "summary": "Software developer specializing in all things cloud. Member of the Apache Software Foundation. Father.",
+        "location": {
+            "address": "",
+            "postalCode": "15344",
+            "city": "Gerakas",
+            "countryCode": "GR",
+            "region": "Attica"
+        },
+        "profiles": [{
+            "network": "Twitter",
+            "username": "iocanel",
+            "url": "https://twitter.com/iocanel"
+        },
+                     {
+                         "network": "LinkedIn",
+                         "username": "iocanel",
+                         "url": "https://linkedin/iocanel"
+                     }]
+    },
+    "work": [{
+        "company": "Red Hat",
+        "position": "Principal Software Engineer",
+        "website": "http://redhat.com",
+        "startdate": "2012-09-01",
+        "enddate": "",
+        "summary": "software development on fabric8 and fuse",
+        "highlights": [
+            "engineered the kubernetes and docker java dsl",
+            "engineered the kubernetes pipeline plugin for jenkins",
+            "implemented the arquillian & cdi extensions for kubernetes",
+            "implemented kubernetes support for spring cloud"]
+    },
+             {
+                 "company": "FuseSource",
+                 "position": "Software Architect",
+                 "website": "http://fusesource.com",
+                 "startdate": "2012-09-01",
+                 "enddate": "",
+                 "summary": "Team Leader of the Fuse Fabric (currently known as Fabric8) project",
+                 "highlights": [
+                     "Lead the Fuse Fabric team",
+                     "Introduced integration with EC2 and Openstack",
+                     "Engineered the HA Git Config Server and Datasore",
+                     "Polished and improved the quality of the product"
+                 ]
+             },
+             {
+                 "company": "Upstream Systems S.A",
+                 "position": "Integration Engineer",
+                 "website": "http://upstreamsystems.com",
+                 "startdate": "2008-09-01",
+                 "enddate": "2011-09-01",
+                 "summary": "Creator of the Curry Integration Platform",
+                 "highlights": [
+                     "Engineered custom integrations with Global Mobile Operators",
+                     "Participated in the analysis, design and first draft of MSP system",
+                     "Formed and lead the integration team"
+                 ]
+             },
+             {
+                 "company": "Alpha Informatics",
+                 "position": "Software Developer",
+                 "website": "http://alpha-inf.gr",
+                 "startdate": "2005-03-01",
+                 "enddate": "2008-09-01",
+                 "summary": "Software Development on ASystem 10 and Horizons Projects. Unix Administration",
+                 "highlights": [
+                     "Software Development",
+                     "Unix administration",
+                     "Presentations and training"
+                 ]
+             }],
+    "volunteer": [{
+        "organization": "Apache Software Foundation",
+        "position": "Member, Committer and PMC",
+        "website": "http://apache.org/",
+        "startDate": "2010-10-01",
+        "endDate": "2013-01-01",
+        "summary": "Software contributions, project management, advocay.",
+        "highlights": [
+            "Committer on Apache Camel",
+            "Committer on Apache ServiceMix",
+            "Committer and PMC meber on Apache Curator",
+            "Committer and PMC meber on Apache Jclouds",
+            "Committer and PMC meber on Apache Karaf",
+            "Committer and PMC meber on Apache Gora"
+        ]
+    }],
+    "education": [{
+        "institution": "University of Ioannina",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "1998-09-01",
+        "endDate": "2003-11-01",
+        "gpa": "",
+        "courses": [
+        ]
+    }],
+    "projects": [
+        {
+            "name": "Fabric8 Kubernetes Client for Java",
+            "description": "Java client framework for Kubernetes and Openshift.",
+            "url": "https://github.com/fabric8io/kubernetes-client",
+            "startDate": "2015-03-01",
+            "endDate": "",
+            "roles": ["Creator"],
+            "highlights": [
+                "The most widely used Kuberenetes client for Java"
+            ],
+            "keywords": ["Java", "Kubernetes", "Openshift"]
+        },
+        {
+            "name": "Spring Cloud Kubernetes",
+            "description": "Kubernetes integration with Spring Cloud",
+            "url": "https://github.com/spring-cloud-incubator/spring-cloud-kubernetes",
+            "startDate": "2016-04-01",
+            "endDate": "",
+            "roles": ["Creator"],
+            "highlights": [
+                "Currently in incubating for Spring Cloud"
+            ],
+            "keywords": ["Java", "Kubernetes", "Spring", "Cloud"]
+        },
+        {
+            "name": "Sundrio",
+            "description": "Builder and DSL generator for Java.",
+            "url": "https://github.com/sundrio/sundrio",
+            "startDate": "2015-03-01",
+            "endDate": "",
+            "roles": ["Creator"],
+            "keywords": ["Java", "Code generation"],
+            "highlights": [
+                "Powers the Fabric8 project family"
+            ]
+        },
+        {
+            "name": "Apache Karaf Cellar",
+            "description": "Distributed services, management and discovery for Apache Karaf",
+            "url": "https://github.com/apache/karaf-cellar",
+            "startDate": "2011-02-01",
+            "endDate": "",
+            "roles": ["Creator"],
+            "keywords": ["Java", "OSGi", "Cloud"],
+            "highlights": [
+                "Backed by Hazelcast",
+                "Supports popular cloud providers"
+            ]
+        }
+    ],
+    "awards": [{
+    }],
+    "publications": [{
+    }],
+    "skills": [{
+        "name": "Programming",
+        "level": "Advanced",
+        "keywords": [
+            "Java",
+            "Go",
+            "Javascript",
+            "C"
+        ]
+    },
+               {
+                   "name": "Cloud Computing",
+                   "level": "Advanced",
+                   "keywords": [
+                       "Kubernetes",
+                       "Docker",
+                       "AWS"
+                   ]
+               },
+               {
+                   "name": "Databases",
+                   "level": "Intermediate",
+                   "keywords": [
+                       "MySQL",
+                       "MongoDB"
+                   ]
+               },
+               {
+                   "name": "Web Development",
+                   "level": "Basic",
+                   "keywords": [
+                       "Angular"
+                   ]
+               }
+              ],
+    "languages": [{
+        "name": "English",
+        "level": "Proficiency"
+    }, {
+        "name": "German",
+        "level": "Begginer"
+    }],
+    "interests": [
+        {
+            "name": "Aikido"
+        },
+        {
+            "name": "Sailing"
+        }
+    ],
+    "references": [{
+        "name": "Spyros Magiatis",
+        "reference": "I had the chance to work with Ioannis for more than three years, while he was a Senior Java Developer in
+the department that I manage at Upstream. He was the Irst member of the integration team where he
+practically designed and implemented Upstream's messaging and billing gateway from scratch. After four
+years this gateway is still Upstream's main integration solution; it has processed hundreds of millions of
+transactions and a team of three people is working on extensions and improvements of a product, which
+solid foundations have been set by Ioannis few years ago. This achievement alone states the obvious, that
+Ioannis is a highly skilled professional, extremely productive and committed to his work."
+    }]
+}
